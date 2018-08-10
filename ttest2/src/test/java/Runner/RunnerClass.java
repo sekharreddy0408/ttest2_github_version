@@ -15,7 +15,6 @@ import org.junit.runner.RunWith;
         format ={"pretty","html:target/cucumber"},
         features ="src//test//resource",
         glue = {"StepDefs"},
-     //   plugin = { "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
         monochrome=true
 
     
