@@ -14,7 +14,14 @@ import cucumber.api.java.en.When;
 import methods.implementedmethods;
 
 public class stepdefs {
-
+ghgg
+	hjhghgg
+	hjggg
+	ghjghgg
+	ghgg
+	hhgghk
+	gjhggh
+	
 	@Before()
 	public static void init() {
 		System.out.println(">>>>>>>>>>>this is before statement<<<<<<<<<<<<");
